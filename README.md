@@ -4,6 +4,8 @@
 
 This project was engineered specifically for **Apple Silicon (M1/MPS backend)** to enable high-frequency (60Hz) physics simulation and rapid neural network training directly on edge hardware.
 
+![Adobe Express - Screen Recording 2026-02-20 at 16 52 55](https://github.com/user-attachments/assets/3ed34fe7-11e2-40da-886c-886f44882660)
+
 ---
 
 ## 🛠️ Tech Stack
