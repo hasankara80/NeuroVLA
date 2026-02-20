@@ -1,0 +1,16 @@
+# Mac OS
+.DS_Store
+
+# Python Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyCharm Settings
+.idea/
+
+# Large Datasets & Model Weights
+vla_dataset/images/
+models/

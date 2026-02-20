@@ -1,0 +1,43 @@
+<mujoco model="VLA_Tabletop">
+    <compiler angle="radian"/>
+    <option gravity="0 0 -9.81" timestep="0.01"/>
+
+    <asset>
+        <material name="table_mat" rgba="0.8 0.6 0.4 1"/>
+        <material name="block_mat" rgba="1 0.2 0.2 1"/> <material name="robot_mat" rgba="0.2 0.2 0.2 1"/>
+    </asset>
+
+    <worldbody>
+        <light pos="0 0 3" dir="0 0 -1" directional="true"/>
+        <geom type="plane" size="1 1 0.1" rgba="0.9 0.9 0.9 1"/>
+
+        <camera name="overhead_cam" pos="0 0 1.2" mode="fixed"/>
+
+        <body name="table" pos="0 0 0.5">
+            <geom type="box" size="0.5 0.5 0.05" material="table_mat"/>
+        </body>
+
+        <body name="red_block" pos="0 -0.1 0.6"> <freejoint/>
+            <geom type="box" size="0.04 0.04 0.04" material="block_mat" mass="0.1" friction="1 0.005 0.0001"/>
+        </body>
+
+        <body name="robot_base" pos="0 -0.4 0.6"> <geom type="cylinder" size="0.06 0.02" material="robot_mat"/>
+            <body name="link1" pos="0 0 0.04">
+                <joint name="joint1" type="hinge" axis="0 0 1" range="-1.5 1.5"/>
+                <geom type="capsule" fromto="0 0 0  0 0.25 0" size="0.03" material="robot_mat"/>
+                <body name="link2" pos="0 0.25 0">
+                    <joint name="joint2" type="hinge" axis="0 0 1" range="-1.5 1.5"/>
+                    <geom type="capsule" fromto="0 0 0  0 0.2 0" size="0.03" material="robot_mat"/>
+                    <body name="end_effector" pos="0 0.2 0">
+                        <geom type="sphere" size="0.035" rgba="0 0.5 1 1"/>
+                    </body>
+                </body>
+            </body>
+        </body>
+    </worldbody>
+
+    <actuator>
+        <position name="motor1" joint="joint1" kp="20" ctrlrange="-1.5 1.5"/>
+        <position name="motor2" joint="joint2" kp="20" ctrlrange="-1.5 1.5"/>
+    </actuator>
+</mujoco>

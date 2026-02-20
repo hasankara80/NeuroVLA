@@ -1,0 +1,5978 @@
+[
+    {
+        "image_file": "frame_0.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.2520728322277206e-14,
+            -0.05055633119869617
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_6.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.4522323451473776e-14,
+            -0.03127007531748336
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_12.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.4962672904611383e-14,
+            -0.0495661522246774
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_18.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.5749776799731924e-14,
+            -0.0505814524951601
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_24.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.7262435732046856e-14,
+            -0.04935188289580009
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_30.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            1.7864981661728973e-14,
+            -0.04755544036358247
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_36.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            2.0404953276862e-14,
+            -0.04826761602259982
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_42.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            2.4146904367366764e-14,
+            -0.02914124524650845
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_48.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            2.4514840471342186e-14,
+            -0.04782393894848164
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_54.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            2.4437348767880113e-14,
+            -0.04625641622774886
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_60.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            2.8447407105697095e-14,
+            -0.04717629412794721
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_66.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            3.086482015148426e-14,
+            -0.04474523905670265
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_72.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            3.3645183045463534e-14,
+            -0.04501601120934269
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_78.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            3.6889784561647074e-14,
+            -0.045586643867236445
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_84.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            4.423575908464296e-14,
+            -0.02622016459396629
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_90.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            4.537791917663939e-14,
+            -0.04431530786851927
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_96.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            4.78151842544719e-14,
+            -0.04509111875521043
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_102.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            4.9315686450013515e-14,
+            -0.04360021731280271
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_108.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            5.801099702433171e-14,
+            -0.04458861645092084
+        ],
+        "action": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "image_file": "frame_114.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0010667824534814929,
+            -0.042616511607535386
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_120.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.001706506045664976,
+            -0.04334799653208079
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_126.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0013754379484304123,
+            -0.041317478595875645
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_132.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0013446929823164866,
+            -0.0418621156122393
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_138.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0013855485437568457,
+            -0.04277057558234038
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_144.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0012951105066631278,
+            -0.04078104411992554
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_150.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0012904621996693625,
+            -0.04151242180538661
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_156.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.001340338669604362,
+            -0.039739396651281934
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_162.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.001126590947772166,
+            -0.040486943257500844
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_168.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0012000904079398737,
+            -0.03826939263569194
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_174.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0009161176381871221,
+            -0.038593064569321434
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_180.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0008117936131320622,
+            -0.03912126035150915
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_186.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0005810238671415806,
+            -0.019820498477263818
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_192.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.00032319886284349567,
+            -0.03742565121364331
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_198.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.00021220732893876057,
+            -0.03790822667857495
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_204.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.00010467957859050825,
+            -0.03886591945776728
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_210.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0006078937492026811,
+            -0.037313414278837866
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_216.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0010357096681188722,
+            -0.018643475919443084
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_222.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0014190376682911747,
+            -0.03649628754654221
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_228.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0015204225005106835,
+            -0.03062088960700025
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_234.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0024917199338995617,
+            -0.03659571643564616
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_240.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0034802555227005693,
+            -0.04301906257338811
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_246.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.004190730955790837,
+            -0.03818591414237175
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_252.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.005718716804040157,
+            -0.04279417427790218
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_258.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.00707899546202663,
+            -0.03853009260091028
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_264.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0003545449359388268,
+            -0.008423599357475182
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_270.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.010662976500069624,
+            -0.007629475777312866
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_276.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.009804445936536227,
+            -0.01718507296032901
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_282.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.004248533300904398,
+            -0.030811144109434287
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_288.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            -0.0020322396440274754,
+            -0.030161379527209528
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_294.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.018257709662945446,
+            -0.031494067208827636
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_300.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.023060778512088487,
+            -0.03154317602335972
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_306.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.02468956553588309,
+            -0.03154760875884798
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_312.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.028333011991750968,
+            -0.03212763005696162
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_318.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.03074299884985266,
+            -0.03250370730995306
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_324.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.03307730176926883,
+            -0.03294095450955423
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_330.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.03518763815242851,
+            -0.033212305976158096
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_336.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.03711933993667565,
+            -0.033690231717473214
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_342.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.03910880343571831,
+            -0.03403103816356331
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_348.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.04070984773959813,
+            -0.03435119392797474
+        ],
+        "action": [
+            0.0,
+            0.05
+        ]
+    },
+    {
+        "image_file": "frame_354.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0416388546408665,
+            -0.035839397998645744
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_360.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.045628394748442526,
+            -0.045367596434334606
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_366.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.047892106049434495,
+            -0.050640060669234564
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_372.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.048327829941036425,
+            -0.05055359717355471
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_378.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.04897468019684863,
+            -0.05051940902016466
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_384.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05038298552636578,
+            -0.05045501975842765
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_390.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05144237227963374,
+            -0.050331958261558625
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_396.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.052296036357358106,
+            -0.05022382479307864
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_402.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05311949839631247,
+            -0.05011818745195513
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_408.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0538423439013383,
+            -0.05003690635185782
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_414.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.054507900870483524,
+            -0.0499580350131257
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_420.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05507834236748044,
+            -0.049889071161566954
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_426.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05562416256672757,
+            -0.04982245744627951
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_432.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.056138726751528416,
+            -0.049758577590940406
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_438.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05661094563456552,
+            -0.04969721051638939
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_444.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057056522692187334,
+            -0.04964350883506304
+        ],
+        "action": [
+            0.0,
+            0.1
+        ]
+    },
+    {
+        "image_file": "frame_450.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05721212061907588,
+            -0.04956011237133479
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_456.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05717072644130538,
+            -0.04955259507566173
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_462.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057163284564151415,
+            -0.04955135240460378
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_468.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716188190178543,
+            -0.04955111818941277
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_474.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161617558854044,
+            -0.04955107404973098
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_480.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161567742660346,
+            -0.049551065731479944
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_486.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161558354702706,
+            -0.04955106416388952
+        ],
+        "action": [
+            0.0,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_492.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556585525755,
+            -0.049551063868474375
+        ],
+        "action": [
+            0.0,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_498.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155625212134,
+            -0.04955106381280289
+        ],
+        "action": [
+            0.0,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_504.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155618929071,
+            -0.049551063802311494
+        ],
+        "action": [
+            0.0,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_510.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556177450175,
+            -0.049551063800334375
+        ],
+        "action": [
+            0.0,
+            0.25
+        ]
+    },
+    {
+        "image_file": "frame_516.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556175218814,
+            -0.049551063799961784
+        ],
+        "action": [
+            0.0,
+            0.25
+        ]
+    },
+    {
+        "image_file": "frame_522.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617479831,
+            -0.04955106379989156
+        ],
+        "action": [
+            0.0,
+            0.25
+        ]
+    },
+    {
+        "image_file": "frame_528.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556174719075,
+            -0.04955106379987832
+        ],
+        "action": [
+            0.0,
+            0.3
+        ]
+    },
+    {
+        "image_file": "frame_534.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556174704135,
+            -0.049551063799875825
+        ],
+        "action": [
+            0.0,
+            0.3
+        ]
+    },
+    {
+        "image_file": "frame_540.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470132,
+            -0.04955106379987535
+        ],
+        "action": [
+            0.0,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_546.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556174700784,
+            -0.04955106379987526
+        ],
+        "action": [
+            0.0,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_552.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.057161556174700694,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_558.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_564.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_570.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_576.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_582.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_588.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_594.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_600.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_606.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_612.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_618.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_624.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_630.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_636.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_642.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_648.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_654.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_660.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_666.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_672.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_678.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_684.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_690.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_696.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_702.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_708.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_714.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_720.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_726.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_732.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_738.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            -0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_744.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_750.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_756.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_762.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.0,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_768.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_774.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_780.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.05,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_786.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_792.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.1,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_798.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.15000000000000002,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_804.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.15000000000000002,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_810.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.15000000000000002,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_816.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.2,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_822.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.2,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_828.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.25,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_834.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.25,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_840.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.25,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_846.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.3,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_852.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.3,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_858.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.35,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_864.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.35,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_870.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.39999999999999997,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_876.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.39999999999999997,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_882.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.39999999999999997,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_888.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.44999999999999996,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_894.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.44999999999999996,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_900.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.44999999999999996,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_906.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.49999999999999994,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_912.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.49999999999999994,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_918.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.49999999999999994,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_924.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_930.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_936.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.6
+        ]
+    },
+    {
+        "image_file": "frame_942.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_948.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_954.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_960.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_966.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_972.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_978.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_984.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_990.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_996.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1002.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1008.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1014.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1020.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1026.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1032.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1038.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1044.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1050.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1056.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1062.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_1068.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_1074.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.35
+        ]
+    },
+    {
+        "image_file": "frame_1080.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.3
+        ]
+    },
+    {
+        "image_file": "frame_1086.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.3
+        ]
+    },
+    {
+        "image_file": "frame_1092.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.25
+        ]
+    },
+    {
+        "image_file": "frame_1098.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.25
+        ]
+    },
+    {
+        "image_file": "frame_1104.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_1110.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_1116.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.2
+        ]
+    },
+    {
+        "image_file": "frame_1122.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1128.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.15000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1134.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.10000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1140.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.10000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1146.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.10000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1152.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.05000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1158.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            0.05000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1164.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            1.3877787807814457e-17
+        ]
+    },
+    {
+        "image_file": "frame_1170.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            1.3877787807814457e-17
+        ]
+    },
+    {
+        "image_file": "frame_1176.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            1.3877787807814457e-17
+        ]
+    },
+    {
+        "image_file": "frame_1182.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.04999999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1188.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.04999999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1194.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.04999999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1200.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.09999999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1206.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.09999999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1212.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.15
+        ]
+    },
+    {
+        "image_file": "frame_1218.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.15
+        ]
+    },
+    {
+        "image_file": "frame_1224.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.2
+        ]
+    },
+    {
+        "image_file": "frame_1230.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.2
+        ]
+    },
+    {
+        "image_file": "frame_1236.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.2
+        ]
+    },
+    {
+        "image_file": "frame_1242.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.2
+        ]
+    },
+    {
+        "image_file": "frame_1248.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1254.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1260.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1266.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1272.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1278.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.25
+        ]
+    },
+    {
+        "image_file": "frame_1284.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.3
+        ]
+    },
+    {
+        "image_file": "frame_1290.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.3
+        ]
+    },
+    {
+        "image_file": "frame_1296.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1302.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1308.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999999,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1314.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.6,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1320.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.6,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1326.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.65,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1332.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.65,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1338.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.65,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1344.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7000000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1350.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7000000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1356.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7000000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1362.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7500000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1368.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7500000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1374.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7500000000000001,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1380.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1386.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.35
+        ]
+    },
+    {
+        "image_file": "frame_1392.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1398.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1404.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.39999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_1410.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_1416.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.44999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_1422.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_1428.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_1434.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.49999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_1440.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1446.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.5499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_1452.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.6
+        ]
+    },
+    {
+        "image_file": "frame_1458.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.6
+        ]
+    },
+    {
+        "image_file": "frame_1464.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.65
+        ]
+    },
+    {
+        "image_file": "frame_1470.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.65
+        ]
+    },
+    {
+        "image_file": "frame_1476.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.65
+        ]
+    },
+    {
+        "image_file": "frame_1482.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.7000000000000001
+        ]
+    },
+    {
+        "image_file": "frame_1488.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.7000000000000001
+        ]
+    },
+    {
+        "image_file": "frame_1494.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.7000000000000001
+        ]
+    },
+    {
+        "image_file": "frame_1500.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.7500000000000001
+        ]
+    },
+    {
+        "image_file": "frame_1506.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.7500000000000001
+        ]
+    },
+    {
+        "image_file": "frame_1512.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1518.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8000000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1524.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1530.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1536.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1542.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1548.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8500000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1554.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8500000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1560.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.8500000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1566.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.9000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1572.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.9000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1578.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.9500000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1584.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -0.9500000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1590.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.0000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1596.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.0000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1602.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.0000000000000002
+        ]
+    },
+    {
+        "image_file": "frame_1608.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.0500000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1614.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.0500000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1620.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.1000000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1626.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.1000000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1632.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.1000000000000003
+        ]
+    },
+    {
+        "image_file": "frame_1638.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.1500000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1644.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.1500000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1650.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.2000000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1656.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.2000000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1662.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.2000000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1668.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.2500000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1674.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.2500000000000004
+        ]
+    },
+    {
+        "image_file": "frame_1680.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.3000000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1686.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.3000000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1692.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1698.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1704.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1710.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1716.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1722.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1728.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1734.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.3500000000000005
+        ]
+    },
+    {
+        "image_file": "frame_1740.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4000000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1746.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4000000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1752.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4000000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1758.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4000000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1764.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4500000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1770.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.4500000000000006
+        ]
+    },
+    {
+        "image_file": "frame_1776.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1782.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1788.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1794.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1800.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1806.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1812.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1818.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1824.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1830.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1836.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1842.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1848.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0500000000000003,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1854.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1860.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1866.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            1.0000000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1872.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9500000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1878.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9500000000000002,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1884.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1890.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1896.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.9000000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1902.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1908.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1914.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8500000000000001,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1920.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1926.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1932.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.8,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1938.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1944.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1950.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1956.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1962.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1968.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1974.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.75,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1980.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1986.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1992.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.7,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_1998.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.6499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2004.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.6499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2010.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.6499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2016.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2022.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2028.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2034.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05716155617470068,
+            -0.04955106379987525
+        ],
+        "action": [
+            0.5499999999999998,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2040.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.05873023897879697,
+            -0.048787993162403454
+        ],
+        "action": [
+            0.5499999999999998,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2046.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.06121106201434323,
+            -0.04814183113535978
+        ],
+        "action": [
+            0.5499999999999998,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2052.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.06407619893537851,
+            -0.04815665104819627
+        ],
+        "action": [
+            0.49999999999999983,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2058.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.06728979062197121,
+            -0.04774359372132719
+        ],
+        "action": [
+            0.49999999999999983,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2064.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.07059573786673055,
+            -0.04766987088612985
+        ],
+        "action": [
+            0.49999999999999983,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2070.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.07386916836618601,
+            -0.04746586223529569
+        ],
+        "action": [
+            0.49999999999999983,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2076.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.07668466047547336,
+            -0.04713460149253296
+        ],
+        "action": [
+            0.44999999999999984,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2082.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.07976540939764412,
+            -0.046676583288169295
+        ],
+        "action": [
+            0.44999999999999984,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2088.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.08315195902889615,
+            -0.04629573059848868
+        ],
+        "action": [
+            0.44999999999999984,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2094.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.08636662047472957,
+            -0.04589483334722692
+        ],
+        "action": [
+            0.39999999999999986,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2100.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0898035123358087,
+            -0.045339013504653775
+        ],
+        "action": [
+            0.39999999999999986,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2106.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.09318117744740635,
+            -0.04501411911701665
+        ],
+        "action": [
+            0.39999999999999986,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2112.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.0966529848971665,
+            -0.04458078233251775
+        ],
+        "action": [
+            0.34999999999999987,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2118.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1004198814703111,
+            -0.044071575767125545
+        ],
+        "action": [
+            0.34999999999999987,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2124.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.10400574529151564,
+            -0.04374085137768907
+        ],
+        "action": [
+            0.34999999999999987,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2130.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.10738117151221492,
+            -0.043445610186120955
+        ],
+        "action": [
+            0.2999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2136.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.11121086495564429,
+            -0.0427941946190191
+        ],
+        "action": [
+            0.2999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2142.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1149815760194757,
+            -0.04231225685931148
+        ],
+        "action": [
+            0.2999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2148.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1185385316273144,
+            -0.04191537880732149
+        ],
+        "action": [
+            0.2999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2154.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.121842113546851,
+            -0.041553551626045716
+        ],
+        "action": [
+            0.2999999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2160.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.12496999436459345,
+            -0.041162791741285815
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2166.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.12854084831753015,
+            -0.04045166062034715
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2172.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.13195909587550553,
+            -0.039956830406217524
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2178.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.13516057759429617,
+            -0.03958323201314194
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2184.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.13810840711369815,
+            -0.03924329225672544
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2190.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1407957923558838,
+            -0.038913041679025984
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2196.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.14324292670775615,
+            -0.03860244633759034
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2202.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.14547003874279124,
+            -0.03830758898643272
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2208.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.14749032297442616,
+            -0.03801735022100885
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.5
+        ]
+    },
+    {
+        "image_file": "frame_2214.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1493173020309806,
+            -0.03772852416802769
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.45
+        ]
+    },
+    {
+        "image_file": "frame_2220.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1508261745061954,
+            -0.03452563052118752
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.45
+        ]
+    },
+    {
+        "image_file": "frame_2226.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15248202944663022,
+            -0.03327613012127315
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.45
+        ]
+    },
+    {
+        "image_file": "frame_2232.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15386490795749158,
+            -0.032432422149216086
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.45
+        ]
+    },
+    {
+        "image_file": "frame_2238.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15510006466225684,
+            -0.03178040371824793
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.45
+        ]
+    },
+    {
+        "image_file": "frame_2244.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15619313042437488,
+            -0.02898632577335347
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.4
+        ]
+    },
+    {
+        "image_file": "frame_2250.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15748390416119612,
+            -0.02739474506685918
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.4
+        ]
+    },
+    {
+        "image_file": "frame_2256.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15858280551647194,
+            -0.02658314428176861
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.4
+        ]
+    },
+    {
+        "image_file": "frame_2262.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.15923435648062412,
+            -0.023538536775473098
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2268.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.160195547258416,
+            -0.02184747539442448
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2274.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16110762573944187,
+            -0.02118914134771819
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2280.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16185173375055784,
+            -0.020676714831599757
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2286.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1625335814955894,
+            -0.0202894646105026
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2292.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16316989187304776,
+            -0.019985168908514008
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2298.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16376384955236276,
+            -0.019730628663676524
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2304.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16431791824955755,
+            -0.019503367379759846
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.3499999999999999
+        ]
+    },
+    {
+        "image_file": "frame_2310.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16467918570134452,
+            -0.018359335749745825
+        ],
+        "action": [
+            0.2499999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2316.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16504990997079586,
+            -0.015259557033563036
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2322.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16635514171095375,
+            -0.014761491728300156
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2328.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16736896494096493,
+            -0.014308442448248172
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2334.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16830935603440736,
+            -0.013943891523071577
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2340.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.16920173124416885,
+            -0.013635368870003437
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2346.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17004245261413728,
+            -0.01335479502021577
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2999999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2352.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1705752067995285,
+            -0.011682992239874285
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2358.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1709395359355159,
+            -0.00962766178805309
+        ],
+        "action": [
+            0.1999999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2364.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17230580601663287,
+            -0.008912659686072471
+        ],
+        "action": [
+            0.1499999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2370.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17357337621947563,
+            -0.008428922859068304
+        ],
+        "action": [
+            0.1499999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2376.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17478958294710936,
+            -0.008060289429668166
+        ],
+        "action": [
+            0.1499999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2382.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1759421121637413,
+            -0.0077448739701984496
+        ],
+        "action": [
+            0.1499999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2388.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17701794022419756,
+            -0.007454252516207549
+        ],
+        "action": [
+            0.1499999999999999,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2394.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17831029464135195,
+            -0.007009691255475271
+        ],
+        "action": [
+            0.09999999999999991,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2400.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.17996813940278486,
+            -0.006585830365851694
+        ],
+        "action": [
+            0.09999999999999991,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2406.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.18153288117692276,
+            -0.006300667208495745
+        ],
+        "action": [
+            0.09999999999999991,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2412.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.18304872595170044,
+            -0.005993399543846958
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2418.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1850611435137055,
+            -0.00550885378351551
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2424.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1869725768224259,
+            -0.005286751528470257
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.2499999999999998
+        ]
+    },
+    {
+        "image_file": "frame_2430.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.18861781559271668,
+            -0.003297612225668053
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2436.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19008422603440892,
+            -0.0019389599516724382
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2442.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19136573847616728,
+            -0.0012896776730308198
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2448.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1925911301787187,
+            -0.000806716242945917
+        ],
+        "action": [
+            0.049999999999999906,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2454.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19424615077310525,
+            -0.00019838108249071667
+        ],
+        "action": [
+            -9.71445146547012e-17,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2460.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19599685376287718,
+            0.0001319277699172229
+        ],
+        "action": [
+            -9.71445146547012e-17,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2466.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19790723527251305,
+            0.00047937099361020286
+        ],
+        "action": [
+            -0.0500000000000001,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2472.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20011657734796226,
+            0.0004869707002779234
+        ],
+        "action": [
+            -0.0500000000000001,
+            -1.1999999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2478.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2018866095935659,
+            0.0027787560370161786
+        ],
+        "action": [
+            -0.0500000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2484.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20358497174574652,
+            0.004020832430244452
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2490.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20557711638470252,
+            0.004690721905787771
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2496.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20749093636612384,
+            0.0049351391649268845
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2502.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20914980421589596,
+            0.0048904085986415215
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2508.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2107218809159563,
+            0.0044823543723383355
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2514.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21219333332319237,
+            0.003912976044609687
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2520.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21311997484626116,
+            0.0035067364943096703
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2526.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2140669650333722,
+            0.0029611560687916967
+        ],
+        "action": [
+            -0.1000000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2532.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21493485465257883,
+            0.0025411409917456326
+        ],
+        "action": [
+            -0.1500000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2538.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21535949061422344,
+            0.0010668430803674376
+        ],
+        "action": [
+            -0.1500000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2544.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21508154858967096,
+            -0.0002191530000240586
+        ],
+        "action": [
+            -0.20000000000000012,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2550.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21612418326006355,
+            -0.0010581889156540444
+        ],
+        "action": [
+            -0.20000000000000012,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2556.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21562412784312004,
+            -0.002721655559634111
+        ],
+        "action": [
+            -0.20000000000000012,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2562.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21579817946161278,
+            -0.0014030294188604325
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2568.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21709995311825417,
+            0.003593254076291194
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.1499999999999997
+        ]
+    },
+    {
+        "image_file": "frame_2574.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21993354599491943,
+            0.014267838936374306
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2580.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2247563387860158,
+            0.03241302147793955
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2586.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22408874047722266,
+            0.02989180992316897
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2592.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240472356415499,
+            0.02975075874191491
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0499999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2598.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404289854740733,
+            0.02973501841721365
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0499999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2604.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404212050203484,
+            0.02973219469767523
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0499999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2610.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404197514754795,
+            0.029731667170150442
+        ],
+        "action": [
+            -0.2500000000000001,
+            -1.0499999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2616.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194779973513,
+            0.02973156791814685
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2622.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194264757674,
+            0.029731549219684628
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2628.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194167670027,
+            0.02973154569613283
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2634.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.224041941493739,
+            0.029731545032120842
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9999999999999996
+        ]
+    },
+    {
+        "image_file": "frame_2640.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145925974,
+            0.029731544906986932
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9499999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2646.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145276204,
+            0.02973154488340525
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9499999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2652.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145153755,
+            0.02973154487896124
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9499999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2658.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145130676,
+            0.02973154487812376
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.9499999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2664.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145126324,
+            0.02973154487796592
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8999999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2670.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145125506,
+            0.02973154487793618
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8999999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2676.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512535,
+            0.029731544877930585
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8999999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2682.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22404194145125322,
+            0.029731544877929537
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8999999999999995
+        ]
+    },
+    {
+        "image_file": "frame_2688.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.029731544877929342
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8499999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2694.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.029731544877929304
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8499999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2700.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.029731544877929283
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.8499999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2706.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.029731544877929263
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2712.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.029731544877929242
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2718.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.02973154487792922
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2724.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2240419414512532,
+            0.0297315448779292
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7999999999999994
+        ]
+    },
+    {
+        "image_file": "frame_2730.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2235389485465838,
+            0.031318070676613526
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7499999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2736.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22261653873752238,
+            0.032795914776428355
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7499999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2742.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22261686035122133,
+            0.03275272608607184
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.7499999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2748.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22218014086117993,
+            0.033921642649108213
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6999999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2754.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21972829383389794,
+            0.03854988317208782
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6999999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2760.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22000453361968084,
+            0.038233571581531504
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6999999999999993
+        ]
+    },
+    {
+        "image_file": "frame_2766.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.22002353079345352,
+            0.03822049188028041
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2772.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2178915305926528,
+            0.04306644645165774
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2778.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21724416571659413,
+            0.043728975606774995
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.6499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2784.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21719697669532917,
+            0.043663685502154215
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2790.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.21352588727295346,
+            0.05023101666694765
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2796.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.211675031449569,
+            0.05241374776916586
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2802.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2116900214528928,
+            0.052409956152831776
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2808.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20981142343213377,
+            0.05657249306713654
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2814.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20807547113321323,
+            0.058647900032166314
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2820.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20811622261346469,
+            0.058538971805443187
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.5499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2826.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20731239409934962,
+            0.06043203065990749
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.49999999999999917
+        ]
+    },
+    {
+        "image_file": "frame_2832.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20321785140011928,
+            0.06672588329364493
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.49999999999999917
+        ]
+    },
+    {
+        "image_file": "frame_2838.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2028108488598522,
+            0.06657174119601324
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.49999999999999917
+        ]
+    },
+    {
+        "image_file": "frame_2844.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.20278529394540132,
+            0.06655429206193905
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.49999999999999917
+        ]
+    },
+    {
+        "image_file": "frame_2850.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.2009898405567816,
+            0.07145551079003289
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.4499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2856.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1995164137902336,
+            0.07214302080028175
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.4499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2862.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1995290302586441,
+            0.07210947512434905
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.4499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2868.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19926493838596085,
+            0.0734547341531027
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2874.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19696060734774268,
+            0.07696370015972935
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2880.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.1970818719243032,
+            0.07696412701295628
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2886.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19707165444952673,
+            0.07695453828921062
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2892.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19557849848604109,
+            0.07954724970327419
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2898.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19356051217320455,
+            0.0813304115877904
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2904.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19352034244956504,
+            0.08130226896886035
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.3499999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2910.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19327591541175224,
+            0.08230299743551373
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.2999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2916.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19232169160644794,
+            0.08341943849757914
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.2999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2922.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19238054121790757,
+            0.08333050571343863
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.2999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2928.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19238914894025852,
+            0.08332223226441295
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.2999999999999992
+        ]
+    },
+    {
+        "image_file": "frame_2934.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239076829152393,
+            0.08332067583169486
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2940.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239107336281572,
+            0.08332038261390941
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2946.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239113085051973,
+            0.08332032735988426
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2952.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114168405017,
+            0.08332031694728957
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2958.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114372564292,
+            0.08332031498502274
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2964.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114411038435,
+            0.08332031461523039
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2970.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114418288955,
+            0.08332031454554237
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2976.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114419655326,
+            0.08332031453240955
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    },
+    {
+        "image_file": "frame_2982.jpg",
+        "instruction": "Push the red block",
+        "state": [
+            0.19239114419912823,
+            0.08332031452993466
+        ],
+        "action": [
+            -0.2500000000000001,
+            -0.24999999999999922
+        ]
+    }
+]
