@@ -1,8 +1,12 @@
-# NeuroVLA: Vision-Language-Action Policy on Apple Silicon
+# NeuroVLA: Multimodal Behaviour Cloning in MuJoCo
 
-**NeuroVLA** is a lightweight, end-to-end Vision-Language-Action (VLA) pipeline built from scratch. It demonstrates the ability to collect human teleoperation data, train a multi-modal PyTorch policy, and deploy it autonomously in a MuJoCo physics environment.
+**NeuroVLA** is a compact, end-to-end robot-learning pipeline that collects human teleoperation demonstrations and trains a multimodal PyTorch policy to predict continuous robot actions from RGB observations, task instructions, and robot state.
 
-This project was engineered specifically for **Apple Silicon (M1/MPS backend)** to enable high-frequency (60Hz) physics simulation and rapid neural network training directly on edge hardware.
+The project covers the complete workflow from demonstration collection to autonomous evaluation in a MuJoCo simulation. It is designed to run locally on Apple Silicon using PyTorch's MPS backend.
+
+> **Scope:** NeuroVLA is a simulation-based behaviour-cloning prototype.
+> Its language component uses a learned instruction embedding rather than
+> a pretrained language model.
 
 ![Adobe Express - Screen Recording 2026-02-20 at 16 52 55](https://github.com/user-attachments/assets/3ed34fe7-11e2-40da-886c-886f44882660)
 
