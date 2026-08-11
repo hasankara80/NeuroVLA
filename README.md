@@ -77,3 +77,24 @@ graph TD
     C[Robot Joint State] -->|Linear| D
     D -->|MLP| E[Predicted Motor Action]
     E -->|PD Control| F[MuJoCo Simulation]
+```
+
+## Current Results
+
+The current NeuroVLA prototype was evaluated on the simulated block-pushing task.
+
+| Metric | Result |
+|---|---:|
+| Recorded demonstrations | 497 |
+| Training samples | 2982 |
+| Training epochs | 30 |
+| Final training loss | 0.0021 |
+| Training time | 11 seconds 34 milliseconds |
+| Evaluation episodes | 20 |
+| Successful episodes | 18 |
+| Task success rate | 90% |
+| Training device | Apple Silicon MPS |
+
+### Success Criterion
+
+An episode is considered successful when the red block reaches the target area within the episode time limit without human input.
