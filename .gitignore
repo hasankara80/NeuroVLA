@@ -1,16 +1,35 @@
-# Mac OS
-.DS_Store
-
-# Python Environments
+# Python
 __pycache__/
 *.py[cod]
-.venv/
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
 venv/
+.venv/
 env/
 
-# PyCharm Settings
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
 .idea/
 
-# Large Datasets & Model Weights
-vla_dataset/images/
-models/
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Training outputs
+checkpoints/
+runs/
+logs/
+
+# Large generated datasets
+vla_dataset/frames/
+vla_dataset/generated/
+
+# Temporary files
+*.tmp
+*.log
