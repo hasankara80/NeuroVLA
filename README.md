@@ -37,7 +37,6 @@ NeuroVLA has been developed and tested with:
 
 Clone the repository:
 
-```bash
 git clone https://github.com/hasankara80/NeuroVLA.git
 cd NeuroVLA
 
