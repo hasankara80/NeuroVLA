@@ -22,13 +22,24 @@ The project covers the complete workflow from demonstration collection to autono
 
 ## 🚀 How to Run
 
-**1. Environment Setup**
+**1. Requirements**
 
-conda create -n neuro_vla python=3.11 -y
+NeuroVLA has been developed and tested with:
 
-conda activate neuro_vla
+- Python 3.11
+- PyTorch 2.13.0
+- MuJoCo 3.11.0
+- OpenCV 5.0.0
+- NumPy 2.4.6
+- macOS on Apple Silicon
 
-pip install mujoco opencv-python torch numpy
+**Setup**
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hasankara80/NeuroVLA.git
+cd NeuroVLA
 
 **2. Data Collection (Teleoperation)**
 
